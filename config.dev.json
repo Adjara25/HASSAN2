@@ -1,10 +1,10 @@
-{🟢... HASSAN...🟢
+{
   "facebookAccount": {
     "email": "",
     "password": "",
     "2FASecret": "",
     "i_user": "",
-    "proxy": null,
+    "proxy": nul,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
     "intervalGetNewCookie": 1440,
     "notes": "time the system a utomatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
@@ -16,14 +16,14 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["61551808319261"],
+  "adminBot": ["100094513963137"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝗢𝗣𝗧𝗜𝗠𝗨𝗦 𝗣𝗥𝗜𝗠𝗘**💜🪶",
-  "prefix": "^",
+  "nickNameBot": "🟢...HASSAN...🟢",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
